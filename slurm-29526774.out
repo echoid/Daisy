@@ -1,0 +1,14 @@
+train row : 30148
+sample row: 30148
+slurmstepd: error: *** JOB 29526774 ON spartan-gpgpu080 CANCELLED AT 2021-09-27T18:52:57 ***
+slurmstepd: error: Detected 1859 oom-kill event(s) in StepId=29526774.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.
+Sep 27 18:52:20 spartan-gpgpu080 kernel: Task in /slurm/uid_13885/job_29526774/step_batch killed as a result of limit of /slurm/uid_13885/job_29526774/step_batch
+Sep 27 18:52:20 spartan-gpgpu080 kernel: Memory cgroup stats for /slurm/uid_13885/job_29526774/step_batch: cache:71680KB rss:4024320KB rss_huge:446464KB mapped_file:71680KB swap:0KB inactive_anon:690320KB active_anon:3405664KB inactive_file:0KB active_file:0KB unevictable:0KB
+Sep 27 18:52:23 spartan-gpgpu080 kernel: Task in /slurm/uid_13885/job_29526774/step_batch killed as a result of limit of /slurm/uid_13885/job_29526774/step_batch
+Sep 27 18:52:23 spartan-gpgpu080 kernel: Memory cgroup stats for /slurm/uid_13885/job_29526774/step_batch: cache:62164KB rss:4033836KB rss_huge:516096KB mapped_file:61448KB swap:0KB inactive_anon:683244KB active_anon:3412032KB inactive_file:404KB active_file:320KB unevictable:0KB
+Sep 27 18:52:27 spartan-gpgpu080 kernel: Task in /slurm/uid_13885/job_29526774/step_batch killed as a result of limit of /slurm/uid_13885/job_29526774/step_batch
+Sep 27 18:52:27 spartan-gpgpu080 kernel: Memory cgroup stats for /slurm/uid_13885/job_29526774/step_batch: cache:52216KB rss:4043780KB rss_huge:569344KB mapped_file:51296KB swap:0KB inactive_anon:682520KB active_anon:3412460KB inactive_file:396KB active_file:268KB unevictable:0KB
+Sep 27 18:52:31 spartan-gpgpu080 kernel: Task in /slurm/uid_13885/job_29526774/step_batch killed as a result of limit of /slurm/uid_13885/job_29526774/step_batch
+Sep 27 18:52:31 spartan-gpgpu080 kernel: Memory cgroup stats for /slurm/uid_13885/job_29526774/step_batch: cache:41108KB rss:4054892KB rss_huge:489472KB mapped_file:41108KB swap:0KB inactive_anon:682756KB active_anon:3413096KB inactive_file:0KB active_file:0KB unevictable:0KB
+Sep 27 18:52:33 spartan-gpgpu080 kernel: Task in /slurm/uid_13885/job_29526774/step_batch killed as a result of limit of /slurm/uid_13885/job_29526774/step_batch
+Sep 27 18:52:33 spartan-gpgpu080 kernel: Memory cgroup stats for /slurm/uid_13885/job_29526774/step_batch: cache:30720KB rss:4065280KB rss_huge:616448KB mapped_file:30720KB swap:0KB inactive_anon:597964KB active_anon:3498036KB inactive_file:0KB active_file:0KB unevictable:0KB

@@ -1,0 +1,3 @@
+train row : 77469
+sample row: 77469
+slurmstepd: error: *** JOB 29523351 ON spartan-bm101 CANCELLED AT 2021-09-27T20:11:13 DUE TO TIME LIMIT ***

@@ -1,0 +1,3 @@
+train row : 30148
+sample row: 30148
+slurmstepd: error: *** JOB 29525795 ON spartan-gpgpu080 CANCELLED AT 2021-09-27T19:20:37 ***
