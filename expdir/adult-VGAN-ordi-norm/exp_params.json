@@ -5,3 +5,10 @@
 {"batch_size": 128, "z_dim": 256, "gen_hidden_dim": 400, "gen_num_layers": 3, "dis_hidden_dim": 300, "dis_num_layers": 3, "dis_lstm_dim": 100, "lr": 0.0005, "noise": 0.05}
 {"batch_size": 128, "z_dim": 256, "gen_hidden_dim": 400, "gen_num_layers": 3, "dis_hidden_dim": 300, "dis_num_layers": 3, "dis_lstm_dim": 400, "lr": 0.0001, "noise": 0.3}
 {"batch_size": 256, "z_dim": 256, "gen_hidden_dim": 200, "gen_num_layers": 1, "dis_hidden_dim": 200, "dis_num_layers": 2, "dis_lstm_dim": 200, "lr": 0.0002, "noise": 0.05}
+{"batch_size": 256, "z_dim": 128, "gen_hidden_dim": 100, "gen_num_layers": 2, "dis_hidden_dim": 100, "dis_num_layers": 1, "dis_lstm_dim": 100, "lr": 0.0002, "noise": 0.3}
+{"batch_size": 512, "z_dim": 128, "gen_hidden_dim": 400, "gen_num_layers": 3, "dis_hidden_dim": 300, "dis_num_layers": 1, "dis_lstm_dim": 200, "lr": 0.001, "noise": 0.1}
+{"batch_size": 512, "z_dim": 128, "gen_hidden_dim": 200, "gen_num_layers": 3, "dis_hidden_dim": 200, "dis_num_layers": 2, "dis_lstm_dim": 300, "lr": 0.0002, "noise": 0.1}
+{"batch_size": 256, "z_dim": 128, "gen_hidden_dim": 300, "gen_num_layers": 1, "dis_hidden_dim": 400, "dis_num_layers": 1, "dis_lstm_dim": 300, "lr": 0.001, "noise": 0.05}
+{"batch_size": 128, "z_dim": 128, "gen_hidden_dim": 300, "gen_num_layers": 3, "dis_hidden_dim": 200, "dis_num_layers": 2, "dis_lstm_dim": 100, "lr": 0.0001, "noise": 0.3}
+{"batch_size": 256, "z_dim": 256, "gen_hidden_dim": 400, "gen_num_layers": 1, "dis_hidden_dim": 300, "dis_num_layers": 2, "dis_lstm_dim": 100, "lr": 0.0001, "noise": 0.2}
+{"batch_size": 128, "z_dim": 256, "gen_hidden_dim": 300, "gen_num_layers": 2, "dis_hidden_dim": 200, "dis_num_layers": 1, "dis_lstm_dim": 300, "lr": 0.0002, "noise": 0.1}
