@@ -1,0 +1,150 @@
+----------ng: 0---------
+generator loss: 0.00942353904247284
+discriminator loss: -0.0025028586387634277
+----------ng: 100---------
+generator loss: 0.0009923866018652916
+discriminator loss: -0.005469087511301041
+----------ng: 200---------
+generator loss: -6.968384695937857e-05
+discriminator loss: -0.004581722430884838
+----------ng: 300---------
+generator loss: -0.0013751336373388767
+discriminator loss: -0.007348770275712013
+----------ng: 400---------
+generator loss: 0.0010739776771515608
+discriminator loss: -0.007445155642926693
+----------ng: 500---------
+generator loss: -0.001653956132940948
+discriminator loss: -0.004774133209139109
+----------ng: 600---------
+generator loss: -0.0017154797678813338
+discriminator loss: -0.004894633311778307
+----------ng: 700---------
+generator loss: -0.0008654711418785155
+discriminator loss: -0.0062139080837368965
+----------ng: 800---------
+generator loss: -0.0005118263652548194
+discriminator loss: -0.005559183657169342
+----------ng: 900---------
+generator loss: -0.002706758910790086
+discriminator loss: -0.0046435752883553505
+----------ng: 1000---------
+generator loss: -0.0009192013530991971
+discriminator loss: -0.006705510895699263
+----------ng: 1100---------
+generator loss: -0.0014284518547356129
+discriminator loss: -0.007541620638221502
+----------ng: 1200---------
+generator loss: -0.0018892626976594329
+discriminator loss: -0.0043638646602630615
+----------ng: 1300---------
+generator loss: 0.0005868850275874138
+discriminator loss: -0.006168232765048742
+----------ng: 1400---------
+generator loss: -0.0005286537925712764
+discriminator loss: -0.004701875615864992
+----------ng: 1500---------
+generator loss: 0.000659078941680491
+discriminator loss: -0.005687725730240345
+----------ng: 1600---------
+generator loss: 0.0005612678360193968
+discriminator loss: -0.005981457885354757
+----------ng: 1700---------
+generator loss: 0.0005740932538174093
+discriminator loss: -0.0064346641302108765
+----------ng: 1800---------
+generator loss: 0.00139428221154958
+discriminator loss: -0.005184847861528397
+----------ng: 1900---------
+generator loss: -0.0013480958295986056
+discriminator loss: -0.006235996261239052
+----------ng: 2000---------
+generator loss: -0.0013121638912707567
+discriminator loss: -0.00579837616533041
+----------ng: 2100---------
+generator loss: -0.0018170588882640004
+discriminator loss: -0.005539568141102791
+----------ng: 2200---------
+generator loss: -0.00029584229923784733
+discriminator loss: -0.003997043240815401
+----------ng: 2300---------
+generator loss: 0.0007622332195751369
+discriminator loss: -0.004813484847545624
+----------ng: 2400---------
+generator loss: -0.003209910588338971
+discriminator loss: -0.00392910884693265
+----------ng: 2500---------
+generator loss: -0.002543454524129629
+discriminator loss: -0.004753445275127888
+----------ng: 2600---------
+generator loss: -0.0013459405163303018
+discriminator loss: -0.003424930851906538
+----------ng: 2700---------
+generator loss: -0.0026819962076842785
+discriminator loss: -0.004179776646196842
+----------ng: 2800---------
+generator loss: -0.0031858577858656645
+discriminator loss: -0.003243023296818137
+----------ng: 2900---------
+generator loss: -0.0030296407639980316
+discriminator loss: -0.004051460884511471
+----------ng: 3000---------
+generator loss: -0.002157425507903099
+discriminator loss: -0.004162285011261702
+----------ng: 3100---------
+generator loss: -0.0006829557241871953
+discriminator loss: -0.00288420170545578
+----------ng: 3200---------
+generator loss: -0.0003027257916983217
+discriminator loss: -0.004980715457350016
+----------ng: 3300---------
+generator loss: 0.00033141396124847233
+discriminator loss: -0.0026366012170910835
+----------ng: 3400---------
+generator loss: -0.005086089950054884
+discriminator loss: -0.004417239222675562
+----------ng: 3500---------
+generator loss: -0.007487660273909569
+discriminator loss: -0.004917657934129238
+----------ng: 3600---------
+generator loss: -9.452396625420079e-05
+discriminator loss: -0.005278181750327349
+----------ng: 3700---------
+generator loss: -0.0008179800934158266
+discriminator loss: -0.0040344363078475
+----------ng: 3800---------
+generator loss: -0.0003580340417101979
+discriminator loss: -0.003967558033764362
+----------ng: 3900---------
+generator loss: -0.00040320679545402527
+discriminator loss: -0.004793608095496893
+----------ng: 4000---------
+generator loss: -0.00047542795073240995
+discriminator loss: -0.004328595008701086
+----------ng: 4100---------
+generator loss: -0.0013442179188132286
+discriminator loss: -0.004114343784749508
+----------ng: 4200---------
+generator loss: 0.0008765706443227828
+discriminator loss: -0.003085864707827568
+----------ng: 4300---------
+generator loss: 5.667686491506174e-05
+discriminator loss: -0.003035081084817648
+----------ng: 4400---------
+generator loss: -0.004925801418721676
+discriminator loss: -0.0032230063807219267
+----------ng: 4500---------
+generator loss: -0.0010573178296908736
+discriminator loss: -0.0031587467528879642
+----------ng: 4600---------
+generator loss: -0.0005989234196022153
+discriminator loss: -0.0032377804163843393
+----------ng: 4700---------
+generator loss: -0.00012407997564878315
+discriminator loss: -0.0028299055993556976
+----------ng: 4800---------
+generator loss: -0.0008929800824262202
+discriminator loss: -0.003380637615919113
+----------ng: 4900---------
+generator loss: -0.0019110628636553884
+discriminator loss: -0.003735028440132737

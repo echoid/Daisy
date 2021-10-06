@@ -1,0 +1,13 @@
+cd slurm
+sbatch adult-LGAN-c-nofair.slurm
+sbatch adult-LGAN-c.slurm
+sbatch adult-LGAN-v-1hot-gmm-noKL.slurm
+sbatch adult-LGAN-v-1hot-gmm.slurm
+sbatch adult-LGAN-v-1hot-norm.slurm
+sbatch adult-LGAN-v-ordi-gmm.slurm
+sbatch adult-LGAN-v-ordi-norm.slurm
+sbatch adult-LGAN-w-1hot-gmm.slurm
+sbatch adult-VGAN-1hot-gmm.slurm
+sbatch adult-VGAN-1hot-norm.slurm
+sbatch adult-VGAN-ordi-norm.slurm
+sbatch adult-VGAN-ordi-gmm.slurm
