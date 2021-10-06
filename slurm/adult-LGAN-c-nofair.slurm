@@ -16,7 +16,7 @@ module load scipy-bundle/2019.10-python-3.7.4
 module load scikit-learn/0.23.1-python-3.7.4
 module load torchvision/0.5.0-python-3.7.4
 
-cd ..
-python Daisy/run.py Daisy/params/adult/adult-LGAN-c-nofair.json
+cd ~/Daisy
+python Daisy/run.py Daisy/params/adult-LGAN-c-nofair.json
 
 
